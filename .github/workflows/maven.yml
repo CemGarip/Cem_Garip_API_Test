@@ -1,4 +1,4 @@
-name: Insider API Test Case
+name: Cem Garip API Test
 
 on:
   push:
