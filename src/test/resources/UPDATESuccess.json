@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "category": {
+    "id": 6,
+    "name": "deer"
+  },
+  "name": "geyik",
+  "photoUrls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/A_chital_stag_1.JPG/1280px-A_chital_stag_1.JPG"
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "deer"
+    }
+  ],
+  "status": "available"
+}

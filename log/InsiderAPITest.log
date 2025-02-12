@@ -1,0 +1,499 @@
+2023-09-10 17:45:30 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:30 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:32 [main] INFO  APITest:146 - delete pet request has been sent
+2023-09-10 17:45:32 [main] INFO  APITest:150 - pet is deleted successfully
+2023-09-10 17:45:32 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:32 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:32 [main] ERROR APITest:161 - Invalid ID supplied
+2023-09-10 17:45:32 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:32 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:33 [main] INFO  APITest:155 - delete pet request has been sent
+2023-09-10 17:45:33 [main] INFO  APITest:157 - pet not found
+2023-09-10 17:45:33 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:33 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:33 [main] INFO  APITest:125 - sold-the pet request has been sent
+2023-09-10 17:45:33 [main] INFO  APITest:132 - sold-the pet is found successfully
+2023-09-10 17:45:33 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:33 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:34 [main] INFO  APITest:79 - create pet request has been sent
+2023-09-10 17:45:34 [main] INFO  APITest:83 - bad input message has been received
+2023-09-10 17:45:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:34 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:34 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:35 [main] INFO  APITest:37 - create pet request has been sent
+2023-09-10 17:45:35 [main] INFO  APITest:46 - pet has been created successfully
+2023-09-10 17:45:35 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:35 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:36 [main] INFO  APITest:138 - pet found by id request has been sent
+2023-09-10 17:45:36 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2023-09-10 17:45:36 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:36 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:36 [main] INFO  APITest:65 - update pet request has been sent
+2023-09-10 17:45:36 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:36 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:37 [main] INFO  APITest:95 - available find pet request has been sent
+2023-09-10 17:45:39 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:39 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:40 [main] INFO  APITest:110 - pending find pet request has been sent
+2023-09-10 17:45:40 [main] INFO  APITest:118 - pending-the pet is found successfully
+2023-09-10 17:45:40 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:45:40 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:45:40 [main] INFO  APITest:53 - create pet request has been sent
+2023-09-10 17:45:40 [main] INFO  APITest:57 - bad input message has been received
+2023-09-10 17:46:32 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:46:32 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:46:33 [main] INFO  APITest:95 - available find pet request has been sent
+2023-09-10 17:47:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:47:29 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:47:30 [main] INFO  APITest:95 - available find pet request has been sent
+2023-09-10 17:47:56 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:47:57 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:47:58 [main] INFO  APITest:95 - available find pet request has been sent
+2023-09-10 17:48:26 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:26 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:27 [main] INFO  APITest:146 - delete pet request has been sent
+2023-09-10 17:48:27 [main] INFO  APITest:150 - pet is deleted successfully
+2023-09-10 17:48:27 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:27 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:27 [main] ERROR APITest:161 - Invalid ID supplied
+2023-09-10 17:48:27 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:27 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:28 [main] INFO  APITest:155 - delete pet request has been sent
+2023-09-10 17:48:28 [main] INFO  APITest:157 - pet not found
+2023-09-10 17:48:28 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:28 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:29 [main] INFO  APITest:125 - sold-the pet request has been sent
+2023-09-10 17:48:29 [main] INFO  APITest:132 - sold-the pet is found successfully
+2023-09-10 17:48:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:29 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:29 [main] INFO  APITest:79 - create pet request has been sent
+2023-09-10 17:48:29 [main] INFO  APITest:83 - bad input message has been received
+2023-09-10 17:48:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:29 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:29 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:30 [main] INFO  APITest:37 - create pet request has been sent
+2023-09-10 17:48:30 [main] INFO  APITest:46 - pet has been created successfully
+2023-09-10 17:48:30 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:30 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:31 [main] INFO  APITest:138 - pet found by id request has been sent
+2023-09-10 17:48:31 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2023-09-10 17:48:31 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:31 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:32 [main] INFO  APITest:65 - update pet request has been sent
+2023-09-10 17:48:32 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:32 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:32 [main] INFO  APITest:95 - available find pet request has been sent
+2023-09-10 17:48:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:34 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:35 [main] INFO  APITest:110 - pending find pet request has been sent
+2023-09-10 17:48:35 [main] INFO  APITest:118 - pending-the pet is found successfully
+2023-09-10 17:48:35 [main] INFO  APITest:24 - Initialize methods and assertions
+2023-09-10 17:48:35 [main] INFO  APITest:27 - tests is starting
+2023-09-10 17:48:36 [main] INFO  APITest:53 - create pet request has been sent
+2023-09-10 17:48:36 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 00:55:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:34 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:36 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 00:55:37 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 00:55:37 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:37 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:37 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 00:55:37 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:37 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:37 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 00:55:37 [main] INFO  APITest:157 - pet not found
+2025-02-11 00:55:37 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:37 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:38 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 00:55:40 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 00:55:40 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:40 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:41 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 00:55:41 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 00:55:41 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:41 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:41 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:41 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:42 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 00:55:42 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 00:55:42 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:42 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:43 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 00:55:43 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2025-02-11 00:55:43 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:43 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:43 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 00:55:43 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:43 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:44 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 00:55:45 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:45 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:46 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 00:55:46 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:55:46 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:55:47 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 00:55:47 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 00:58:01 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:02 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:04 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 00:58:04 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 00:58:04 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:04 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:04 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 00:58:04 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:04 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:05 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 00:58:05 [main] INFO  APITest:157 - pet not found
+2025-02-11 00:58:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:05 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:06 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 00:58:08 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 00:58:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:09 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 00:58:09 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 00:58:09 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:09 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:09 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:09 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:09 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 00:58:09 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 00:58:09 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:09 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:10 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 00:58:10 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2025-02-11 00:58:10 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:10 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:11 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 00:58:11 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:11 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:12 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 00:58:13 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:13 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:14 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 00:58:14 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 00:58:14 [main] INFO  APITest:27 - tests is starting
+2025-02-11 00:58:15 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 00:58:15 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 01:00:54 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:00:55 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:00:57 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 01:00:58 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 01:00:58 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:00:58 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:00:58 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 01:00:58 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:00:58 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:00:59 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 01:00:59 [main] INFO  APITest:157 - pet not found
+2025-02-11 01:00:59 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:00:59 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:00 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 01:01:02 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 01:01:02 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:02 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:03 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 01:01:03 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 01:01:03 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:03 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:03 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:03 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:04 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:01:04 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 01:01:04 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:04 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:04 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 01:01:04 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2025-02-11 01:01:04 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:04 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:05 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 01:01:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:05 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:06 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 01:01:07 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:07 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:08 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 01:01:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:01:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:01:09 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 01:01:09 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 01:06:02 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:03 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:05 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 01:06:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:05 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:05 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 01:06:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:05 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:05 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 01:06:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:05 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:07 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 01:06:07 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:07 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:08 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 01:06:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:08 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:06:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:09 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 01:06:09 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:09 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:10 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 01:06:10 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:10 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:11 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 01:06:11 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:11 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:12 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 01:06:12 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:12 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:13 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 01:06:40 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:40 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:42 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 01:06:43 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 01:06:43 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:43 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:43 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 01:06:43 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:43 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:44 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 01:06:44 [main] INFO  APITest:157 - pet not found
+2025-02-11 01:06:44 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:44 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:45 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 01:06:47 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 01:06:47 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:47 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:48 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 01:06:48 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 01:06:48 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:48 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:48 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:48 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:49 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:06:49 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 01:06:49 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:49 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:51 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 01:06:51 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:51 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:52 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 01:06:52 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:52 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:53 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 01:06:54 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:54 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:55 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 01:06:56 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:06:56 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:06:57 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 01:06:57 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 01:08:03 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:08:03 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:08:05 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:08:06 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 01:10:26 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:26 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:29 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 01:10:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:29 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:29 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 01:10:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:29 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:30 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 01:10:30 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:30 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:31 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 01:10:31 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:31 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:33 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 01:10:33 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:33 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:33 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:33 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:34 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:10:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:34 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:34 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 01:10:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:34 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:35 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 01:10:35 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:35 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:36 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 01:10:36 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:36 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:37 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 01:10:37 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:10:37 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:10:37 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 01:11:49 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:49 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:51 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 01:11:52 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 01:11:52 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:52 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:52 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 01:11:52 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:52 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:52 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 01:11:52 [main] INFO  APITest:157 - pet not found
+2025-02-11 01:11:52 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:52 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:53 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 01:11:55 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 01:11:55 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:55 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:56 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 01:11:56 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 01:11:56 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:56 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:56 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:56 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:57 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 01:11:57 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 01:11:57 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:57 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:58 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 01:11:58 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:58 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:11:59 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 01:11:59 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:11:59 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:12:00 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 01:12:01 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:12:01 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:12:02 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 01:12:02 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 01:12:02 [main] INFO  APITest:27 - tests is starting
+2025-02-11 01:12:03 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 01:12:03 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 21:33:16 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:33:16 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:33:18 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 21:33:19 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 21:33:39 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:33:39 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:33:43 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 21:33:44 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 21:34:42 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:34:43 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:34:49 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 21:34:50 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 21:34:57 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:34:58 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:35:00 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 21:35:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:35:09 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:35:11 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 21:35:11 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 21:35:24 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:35:24 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:35:30 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:35:30 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:35:32 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 21:35:55 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:35:56 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:35:59 [main] INFO  APITest:110 - pending find pet request has been sent
+2025-02-11 21:36:00 [main] INFO  APITest:118 - pending-the pets are found successfully
+2025-02-11 21:36:30 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:36:31 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:36:34 [main] INFO  APITest:125 - sold-the pet request has been sent
+2025-02-11 21:36:35 [main] INFO  APITest:132 - sold-the pets are found successfully
+2025-02-11 21:36:41 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:36:42 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:36:45 [main] INFO  APITest:138 - pet found by id request has been sent
+2025-02-11 21:36:46 [main] INFO  APITest:141 - pet found by id request is sent successfully
+2025-02-11 21:36:57 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:36:58 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:37:00 [main] INFO  APITest:146 - delete pet request has been sent
+2025-02-11 21:37:01 [main] INFO  APITest:150 - pet is deleted successfully
+2025-02-11 21:37:29 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:37:29 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:37:31 [main] INFO  APITest:155 - delete pet request has been sent
+2025-02-11 21:37:31 [main] INFO  APITest:157 - pet not found
+2025-02-11 21:37:38 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:37:39 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:37:39 [main] ERROR APITest:161 - Invalid ID supplied
+2025-02-11 21:55:19 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:55:19 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:55:22 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 21:55:23 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 21:59:38 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:59:38 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:59:42 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 21:59:43 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 21:59:47 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 21:59:47 [main] INFO  APITest:27 - tests is starting
+2025-02-11 21:59:49 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 21:59:50 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 22:00:18 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:00:18 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:00:20 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 22:00:21 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 22:02:46 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:02:47 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:02:49 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 22:02:49 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 22:05:42 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:05:42 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:05:45 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 22:05:45 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 22:08:55 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:08:55 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:08:58 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 22:08:58 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 22:12:24 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:12:25 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:12:27 [main] INFO  APITest:37 - create pet request has been sent
+2025-02-11 22:12:27 [main] INFO  APITest:46 - pet has been created successfully
+2025-02-11 22:12:34 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:12:34 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:12:36 [main] INFO  APITest:53 - create pet request has been sent
+2025-02-11 22:12:37 [main] INFO  APITest:57 - bad input message has been received
+2025-02-11 22:12:47 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:12:47 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:12:50 [main] INFO  APITest:65 - update pet request has been sent
+2025-02-11 22:12:55 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:12:56 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:12:58 [main] INFO  APITest:79 - create pet request has been sent
+2025-02-11 22:12:59 [main] INFO  APITest:83 - bad input message has been received
+2025-02-11 22:13:05 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:13:06 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:13:12 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:13:12 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:13:14 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 22:13:47 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:13:48 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:14:00 [main] INFO  APITest:95 - available find pet request has been sent
+2025-02-11 22:14:15 [main] INFO  APITest:102 - available-the pets are found successfully
+2025-02-11 22:14:32 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:14:32 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:14:34 [main] INFO  APITest:109 - pending find pet request has been sent
+2025-02-11 22:14:35 [main] INFO  APITest:116 - pending-the pets are found successfully
+2025-02-11 22:14:40 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:14:40 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:14:42 [main] INFO  APITest:123 - sold-the pet request has been sent
+2025-02-11 22:14:43 [main] INFO  APITest:130 - sold-the pets are found successfully
+2025-02-11 22:14:48 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:14:48 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:14:50 [main] INFO  APITest:136 - pet found by id request has been sent
+2025-02-11 22:14:50 [main] INFO  APITest:139 - pet found by id request is sent successfully
+2025-02-11 22:14:55 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:14:55 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:14:57 [main] INFO  APITest:144 - delete pet request has been sent
+2025-02-11 22:14:58 [main] INFO  APITest:148 - pet is deleted successfully
+2025-02-11 22:15:02 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:15:02 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:15:04 [main] INFO  APITest:153 - delete pet request has been sent
+2025-02-11 22:15:04 [main] INFO  APITest:155 - pet not found
+2025-02-11 22:15:08 [main] INFO  APITest:24 - Initialize methods and assertions
+2025-02-11 22:15:08 [main] INFO  APITest:27 - tests is starting
+2025-02-11 22:15:08 [main] ERROR APITest:159 - Invalid ID supplied

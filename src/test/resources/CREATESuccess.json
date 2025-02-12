@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "category": {
+    "id": 6,
+    "name": "cat"
+  },
+  "name": "pisi",
+  "photoUrls": [
+    "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "cins"
+    }
+  ],
+  "status": "available"
+}

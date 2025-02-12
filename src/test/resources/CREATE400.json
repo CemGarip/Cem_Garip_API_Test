@@ -1,0 +1,18 @@
+{
+  "id": cem,
+  "category": {
+    "id": 1,
+    "name": "bear"
+  },
+  "name": "ayı",
+  "photoUrls": [
+    "https://e3.365dm.com/16/07/1600x900/102699292-1_3638250.jpg?20160706023527"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "cins"
+    }
+  ],
+  "status": "available"
+}
